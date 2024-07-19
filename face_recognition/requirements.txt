@@ -1,0 +1,15 @@
+requirements
+
+step-1: install the python idle verson (Python 3.6 64-bit)
+step-2: Feed the Embedded c code in the IOT kit
+step-3: connect with the wifi (wifi name: PROJECT, Password: 123456789)
+            two device will be connected in the same wifi the devices is (laptop  and esp 32a cam)
+step-4: check the url ....the url will send to the Embedded c code feeded mobile number (mahadev)
+
+
+run
+
+step-1: open the python code in idle connect with iot kit
+step-2: check the wifi connection. check Weather 2 device is connected or not.
+step-3: check the network url in  the python code ..will be sent in the telegram 
+step-4: Run the python code and have strong network
